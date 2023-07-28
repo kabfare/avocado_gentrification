@@ -6,8 +6,8 @@ A data analytics project attempting to correlate the gentrification of Atlanta, 
 ### Instructions:
 1. Create a virtual environment with which to run the Jupyter Notebook.
     - Open a new terminal in your IDE, be sure it's a powershell terminal.
-    - Run the script |python -m venv venvname|. This will create the virtual environment.
-    - Activate the virtual environment by running the script |venvname\Script\Activate.ps1|.
+    - Run the script `python -m venv venvname`. This will create the virtual environment.
+    - Activate the virtual environment by running the script `venvname\Script\Activate.ps1`.
 2. Refer to **requirements.txt**.
 3. Ensure modules are installed and Python is updated to at least version 3.9.13.
 4. Open and run **avocado_gentrification.ipynb**. This will create four Excel files named **atlanta-census.xlsx**, **avo_yearly_avg.xlsx**, **avocado_years.xlsx**, and **piv_atlanta-census.xlsx**.
